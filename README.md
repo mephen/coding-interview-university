@@ -1,3 +1,4 @@
+別忘了勾選計劃的進展：直接往方括號中填寫一個字符 o 即可：[o]
 # Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
